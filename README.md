@@ -11,5 +11,7 @@ Will add day by day updates as well as weekly updates once I start the challenge
 Resources : 
 - https://teamtreehouse.com/tracks/learn-python
 - https://www.coursera.org/learn/machine-learning
+- https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
+- https://www.youtube.com/user/dataschool
 
 #100DaysOfML
