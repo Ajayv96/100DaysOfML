@@ -11,4 +11,5 @@ Will add day by day updates as well as weekly updates once I start the challenge
 Resources : 
 - https://teamtreehouse.com/tracks/learn-python
 - https://www.coursera.org/learn/machine-learning
+
 #100DaysOfML
